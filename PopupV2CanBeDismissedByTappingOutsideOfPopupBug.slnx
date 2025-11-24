@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PopupV2CanBeDismissedByTappingOutsideOfPopupBug.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
